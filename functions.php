@@ -114,3 +114,4 @@ if ( ! function_exists( 'bonativo_setup' ) ) {
       }
       add_filter( 'nav_menu_link_attributes', 'add_menu_link_class', 1, 3 );
 
+?>
